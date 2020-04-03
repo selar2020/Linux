@@ -1,0 +1,2 @@
+找到nginx,在 /usr/local/webserver/nginx/sbin
+执行：  ./nginx -s reload
