@@ -1,0 +1,13 @@
+apt updata
+命令用于从软件源获取软件并缓存到本地。
+apt upgrede 
+更新已安装软件
+apt list 列出本地仓中软件
+apt list -installed  列出已安装软件
+apt list xkeyxx   搜索关键字的软件 
+    如， apt list zlib*
+apt install xxxxxx 安装打指定的包，连依赖
+apt remove  xxxxxx  缷载指定包
+apt clean  清除本地缓存包
+
+    
