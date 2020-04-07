@@ -1,0 +1,4 @@
+rpm -qa | grep php   q表示查询，a表示已被安装，以php为关键字，查询已安装的php
+rpm -qal |prep php   l表示包装包内的文件被安装到哪些目录
+rpm -aq | grep php73  查询php73的安装包（得全称）
+rpm -ql php73-php-fpm-7.3.16-1.el7.remi.x86_64  查询。。。安装位置
