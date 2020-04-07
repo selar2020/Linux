@@ -1,0 +1,2 @@
+find 路径  -name “文件名”  文件名可用通配符*？
+find /ect/  -name "php*"
