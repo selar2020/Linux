@@ -11,3 +11,6 @@ apt remove  xxxxxx  缷载指定包
 apt clean  清除本地缓存包
 
     
+yum update
+yum list php 检查php是否已安装，列出php的安装包
+
