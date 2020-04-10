@@ -1,3 +1,4 @@
+apt 可执行包括apt-get和apt-ca??的命令
 apt updata
 命令用于从软件源获取软件并缓存到本地。
 apt upgrede 
@@ -9,8 +10,4 @@ apt list xkeyxx   搜索关键字的软件
 apt install xxxxxx 安装打指定的包，连依赖
 apt remove  xxxxxx  缷载指定包
 apt clean  清除本地缓存包
-
-    
-yum update
-yum list php 检查php是否已安装，列出php的安装包
 
