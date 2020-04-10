@@ -1,0 +1,5 @@
+yum 的操作对象是RPM。（Red Hat Packet  Modified)红帽子共享出来的安装包。
+  最要紧的是有正确的库（repository).
+  配置文件在 ect/yum.config
+yum 的命令格式
+  yum [选项] [命令] [安装包]
